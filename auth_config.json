@@ -1,0 +1,7 @@
+{
+  "domain": "dev-q4iv.us.auth0.com",
+  "clientId": "rRtIndZSSdAQJMiK9I5elPOT8rxnkr7x",
+  "audience": "https://pizza42poc.herokuapp.com/api",
+  "appClientID": "aXmfJLugjuEYAAS2CFRcgrOpJsKKU1G0",
+  "appClientSecret": "czBNGqZUVyo9uCTVHHWewVlfW2ydpwInwDkYEwwvwGtmRUg_ozrGSaLV96aEpscd"
+}
